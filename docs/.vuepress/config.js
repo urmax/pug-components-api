@@ -35,7 +35,8 @@ module.exports = {
             '组件库目录/09. Banner （大图轮播）',
             '组件库目录/10. DetailsTable （详情顶部的表格）',
             '组件库目录/11. DatePicker （日期选择器）',
-            '组件库目录/12. CmCard （卡片）'
+            '组件库目录/12. CmCard （卡片）',
+            '组件库目录/13. HoverShow （移入显示）'
           ]
         }
       ]
